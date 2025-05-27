@@ -6,8 +6,8 @@ Turning code into magic with a mix of creativity and problem-solving.
 ## 🚀 About Me
 - 🎓 Lifelong learner with experience in **Python, Java, C++, and more**.
 - ✈️ Scottish heritage, aviation enthusiast, and RPG lover.
-- 🌱 Pursuing Bachelor's degrees in Computer Science and Cyber Security (Graduate May 2025).  
-- 🌱 Currently mastering **Node.js** and cloud technologies (**AWS**, **Azure**).
+- 🌱 Completed Bachelor's degrees in Computer Science and Cyber Security (Graduated May 8, 2025).  
+- 🌱 Currently learning **Node.js** and cloud technologies (**AWS**, **Azure**).
 
 ## 🌟 Projects
 ### [PaliBu County Library](http://palibucountylibrary.xyz)
@@ -37,6 +37,18 @@ Turning code into magic with a mix of creativity and problem-solving.
   - Alerts for large future orders to streamline preparation.
   - Compliance-checking system for real-time monitoring.
   - Training management module for employees.
+
+### ANTI-SOCIAL-MEDIA
+- **Description**: A private social media platform for my family to enjoy the fun of social media, but without the trolls.
+- **Features**:
+  - Photo uploads to existing albums or create your own
+  - Album ownership for increased privacy
+  - Soft deletion
+  - Posts, Comments, Reactions similar to facebook
+- **Planned Features**:
+    - Private/Group messaging
+    - PWA Setup for mobile devices (In Progress)
+    - Emergency Alerts
 
 ## 📫 How to Reach Me
 - **GitHub**: [LowlandMage](https://github.com/LowlandMage)
